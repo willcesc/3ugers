@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class droning {
 	
-
+//JEG HAR SKREVET EN KOMMENTAR FOR SJOVT
 			 public static void main(String[] args) {
 			String a = "konge";
 			 String b = "toer";
